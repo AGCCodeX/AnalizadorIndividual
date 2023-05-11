@@ -1,0 +1,4 @@
+int resta, a, b; float c;
+resta=(a* b)-10;
+
+$
